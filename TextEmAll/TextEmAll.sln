@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEmAll", "TextEmAll\TextEmAll.csproj", "{728D99F3-ACCE-4B58-A204-37EE63A4FCC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceCalculator", "DistanceCalculator\DistanceCalculator.csproj", "{AAF18AF2-CC0F-47EF-A434-69DAF37B147F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{728D99F3-ACCE-4B58-A204-37EE63A4FCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728D99F3-ACCE-4B58-A204-37EE63A4FCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728D99F3-ACCE-4B58-A204-37EE63A4FCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728D99F3-ACCE-4B58-A204-37EE63A4FCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF18AF2-CC0F-47EF-A434-69DAF37B147F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF18AF2-CC0F-47EF-A434-69DAF37B147F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF18AF2-CC0F-47EF-A434-69DAF37B147F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF18AF2-CC0F-47EF-A434-69DAF37B147F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87228366-28B1-4E83-8D91-C592AD980627}
+	EndGlobalSection
+EndGlobal
